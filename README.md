@@ -1,6 +1,16 @@
 #  Banking System Database (MySQL)
  
 A complete relational banking database built in MySQL. It covers schema design for 18 tables, sample data, and a full SQL learning path: filtering, joins, subqueries, CTEs, window functions, views, indexes, stored procedures, functions, triggers and recursive CTEs.
+
+ 
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)
+
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+ 
+---
  
 
 ##  Project Overview
